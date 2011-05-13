@@ -1,0 +1,13 @@
+ul, li {padding:0;margin:0;}
+.galeria {width:500px;border:1px solid pink;}
+/*#galeria_carousel{width:100%;}*/
+.galeria li {
+	background:#fff;
+	padding:0 20px;
+	margin:0;
+	text-align:center;
+	}
+.galeria a img {border:none;}
+
+.caption{position:absolute;top:5px;left:20px;background:rgba(0,0,0,0.6);display:block;right:20px;color:#fff;}
+	
